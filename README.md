@@ -1,0 +1,1 @@
+This repository demonstrates a potential buffer overflow vulnerability in assembly code. The code snippet attempts to access memory using an index that is not properly validated, which can cause a crash or potentially lead to arbitrary code execution.  The solution illustrates how to safely perform similar memory operations with bound checks.
